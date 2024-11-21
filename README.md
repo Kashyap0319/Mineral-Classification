@@ -1,6 +1,6 @@
 ﻿# Mineral-Classification
 Explore the classification of minerals using machine learning techniques, analyzing images to identify and categorize different mineral types. Gain insights into the diversity of minerals and their visual characteristics through image data analysis.
-<img width="926" alt="webapp" src="https://github.com/tanuj437/Mineral-Classification/assets/128210429/de679733-b0e8-4383-8b22-93d918e842ee">
+
 
 
 ## 📝 Abstract
@@ -90,7 +90,5 @@ Mineral-Classification
 **Interpret Results**
   -Analyze the model's performance using the visualizations and metrics provided in the notebook.
 
-Feel free to reach out if you encounter any issues or need further assistance with running the notebook.
 
-## Connect with Me
-Tanuj Saxena [LinkedIn](https://www.linkedin.com/in/tanuj-saxena-970271252/)
+
